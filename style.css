@@ -1,0 +1,22 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+height: 220px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body {
+background-position:center;
+background-size:cover;
+}
+
+canvas{
+    border: Green;
+    border-style: dotted;
+}
