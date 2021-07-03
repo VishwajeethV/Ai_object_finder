@@ -20,3 +20,7 @@ canvas{
     border: Green;
     border-style: dotted;
 }
+
+input{
+    background-color: coral;  
+}
